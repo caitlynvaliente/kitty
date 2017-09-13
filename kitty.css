@@ -7,7 +7,7 @@
 }
 
 img {
-	content:url(Documents/images/kitten-large.png);
+	content:url(kitten-large.png);
 	width:90vw;
 	height:60vh;
 	
@@ -22,7 +22,7 @@ body{
 text-align:center;
 }
 img{
-	content:url(Documents/images/kitten-medium.png);
+	content:url(kitten-medium.png);
 	width:80vw;
 	height:50vh
 }
@@ -36,12 +36,12 @@ body{
 }
 
 img{
-	content:url(Documents/images/kitten-small.png);
+	content:url(kitten-small.png);
 	width:80vw;
 	height:60wh;
 }
 .kittyloaf {
 	visibility:visible;
-	content:url (Documents/images/kittyloaf.gif);
+	content:url (kittyloaf.gif);
 }
 }	
