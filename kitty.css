@@ -43,5 +43,6 @@ body{
 .kittyloaf {
 	
 	content:url (kittyloaf.gif);
+	visibility:hidden;
 }
 }	
